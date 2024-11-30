@@ -19,10 +19,16 @@ This is the video which is analysed.
 
 File details- Main Solution is in assignment1.ipynb
 brightness_values.txt is the file where all the frame's brightness values are stored using python code.
+
 Libraries used:
+
 cv2 (Open-CV)
+
 matplotlib
+
 pandas
+
 numpy
+
 Brightness trends frames quantity:
 
