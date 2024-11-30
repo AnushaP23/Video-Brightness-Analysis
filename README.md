@@ -31,4 +31,5 @@ Libraries used:
 4. numpy
 
 Brightness trends frames quantity:
+<img width="999" alt="Screenshot 2024-11-30 at 10 35 46 PM" src="https://github.com/user-attachments/assets/8a3344dc-212f-4313-b36b-b975d3140e35">
 
