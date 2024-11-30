@@ -31,5 +31,11 @@ Libraries used:
 4. numpy
 
 Brightness trends frames quantity:
+
 <img width="999" alt="Screenshot 2024-11-30 at 10 35 46 PM" src="https://github.com/user-attachments/assets/8a3344dc-212f-4313-b36b-b975d3140e35">
+
+Frames distribution represented in pie graph:
+
+![image](https://github.com/user-attachments/assets/694e912c-7d7e-4148-92b4-2ec2cf6331e5)
+
 
