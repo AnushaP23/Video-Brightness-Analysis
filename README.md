@@ -22,13 +22,13 @@ brightness_values.txt is the file where all the frame's brightness values are st
 
 Libraries used:
 
-cv2 (Open-CV)
+1. cv2 (Open-CV)
 
-matplotlib
+2. matplotlib
 
-pandas
+3. pandas
 
-numpy
+4. numpy
 
 Brightness trends frames quantity:
 
